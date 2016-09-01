@@ -1,0 +1,24 @@
+{
+  "name": "vipbilet24-service-hello",
+  "version": "1.0.0",
+  "description": "[https://github.com/vipbilet24/vipbilet24-service-hello](https://github.com/vipbilet24/vipbilet24-service-hello)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipbilet24/vipbilet24-service-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipbilet24/vipbilet24-service-hello/issues"
+  },
+  "homepage": "https://github.com/vipbilet24/vipbilet24-service-hello#readme",
+  "dependencies": {
+    "hapi": "^15.0.3"
+  }
+}
